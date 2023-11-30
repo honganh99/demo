@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "email": "admin@gmail.com",
+      "password": "Admin1234@",
+      "role": "admin",
+      "status": ""
+    },
+    {
+      "username": "trantran",
+      "email": "abc@gmail.com",
+      "password": "haha12345@",
+      "role": "regular",
+      "status": "",
+      "id": 2,
+      "cart": []
+    },
+    {
+      "username": "Nhat anh",
+      "email": "nguyenhonganh304@gmail.com",
+      "password": "Aa12345@",
+      "role": "regular",
+      "status": "",
+      "id": 3,
+      "cart": [
+        {
+          "quantity": 2
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Grand Spruce Christmas Tree – 6ft",
+      "src": "https://whitecompany.scene7.com/is/image/whitecompany/Grand-Spruce-Christmas-Tree---6ft/A06089_88_MAIN_B?$M_PLP_176x176$",
+      "price": "225000"
+    },
+    {
+      "id": 2,
+      "name": "Christmas Tree Storage Bag - Large",
+      "src": "https://whitecompany.scene7.com/is/image/whitecompany/Pre-Lit-Christmas-Tree---1-5ft/A06106_XS23_88_F?$M_PLP_176x176$",
+      "price": "425000"
+    },
+    {
+      "id": 3,
+      "name": "Grand Spruce Christmas Tree – 6ft",
+      "src": "https://whitecompany.scene7.com/is/image/whitecompany/Pre-Lit-Grand-Spruce-Christmas-Tree---9ft/A06093_88_MAIN?$M_PLP_176x176$",
+      "price": "325000"
+    }
+  ]
+}
